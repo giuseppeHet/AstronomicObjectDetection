@@ -4,6 +4,9 @@ The primary goal of this project is to develop a predictive model capable of cla
 
 # Dataset
 The dataset utilized in this project originates from the [SDSS DR18](https://www.sdss.org) and contains observations of various celestial objects. Each object in the dataset is characterized by features representing its photometric magnitudes in five different filters: 'u', 'g', 'r', 'i', 'z'. These magnitudes provide a broad overview of the object's properties across different wavelengths of light. The target variable is the 'class' of each object, which identifies it as a star, galaxy, or quasar.
+This is the object distribution in the dataset:
+![](https://github.com/giuseppeHet/AstronomicObjectDetection/blob/main/4.png)
+
 
 # Usage
 To run the classification model on your dataset, follow these steps:
