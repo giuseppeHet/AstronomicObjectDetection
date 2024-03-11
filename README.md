@@ -23,5 +23,5 @@ Guidelines for deploying the model in a production environment are provided, inc
 
 Contributing
 
-Contributions to the project are welcome! Please refer to the contributing guidelines for more information.
+Contributions to the project are welcome! 
 
