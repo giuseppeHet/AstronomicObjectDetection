@@ -22,6 +22,8 @@ To optimize the model's performance, we employ a Grid Search strategy to systema
 
 # Model Evaluation:
 After training, the model's performance is assessed on a separate test set. Evaluation metrics include accuracy, precision, recall, and F1-score for each class, providing a comprehensive understanding of the model's strengths and weaknesses. A confusion matrix is also generated to visualize the model's predictions in comparison to the true labels, offering insights into any systematic errors in classification.
+Here are training and validation accuracy and loss plots:
+![](https://github.com/giuseppeHet/AstronomicObjectDetection/blob/main/3.png)
 
 # Deployment Considerations:
 Upon satisfactory evaluation, the model is prepared for deployment in a real-world application. This could involve integrating the model into an astronomical software tool or a web application that allows users to classify celestial objects by inputting photometric data. Deployment considerations include ensuring model scalability, monitoring performance, and maintaining data privacy and security.
